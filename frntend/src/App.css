@@ -1,0 +1,11 @@
+body {
+  background-color: #fcfcde;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.todo-header {
+  text-align: center;
+  color: #8680fa;
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
